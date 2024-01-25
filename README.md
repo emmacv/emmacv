@@ -1,4 +1,5 @@
-### Hi, I'm Emmanuel, but call me Emma if you prefer 👋
+### Hi, I'm Emmanuel 👋,
+### but call me Emma for simplicity 
 
 <!--
 **emmacv/emmacv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
